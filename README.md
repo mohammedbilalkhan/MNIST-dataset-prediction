@@ -37,9 +37,17 @@ You can find the MNIST dataset [here](https://www.kaggle.com/datasets/hojjatk/mn
 ## Getting Started
 
 To run the notebook locally, follow these steps:
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/mohammedbilalkhan/MNIST-Analysis.git
+Clone this repository:
+```bash
+git clone https://github.com/mohammedbilalkhan/MNIST-Analysis.git
 ```
+
+## Results
+The results of the model comparison, including metrics such as accuracy, precision, recall, and F1 score, are detailed in the notebook. Check the conclusion section for insights on which model performed better for this specific employee promotion prediction task.
+
+## Acknowledgments
+Special thanks to Maharshi Mehta, Parul Batish, and Prachi Khatri for the contribution that helped in the development of this project.
+
+If you have any questions or suggestions, please feel free to open an issue or contact mohammedbilalkhan10@gmail.com.
+
+Happy analyzing and predicting!
