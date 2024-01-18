@@ -43,7 +43,7 @@ git clone https://github.com/mohammedbilalkhan/MNIST-Analysis.git
 ```
 
 ## Results
-The results of the model comparison, including metrics such as accuracy, precision, recall, and F1 score, are detailed in the notebook. Check the conclusion section for insights on which model performed better for this specific employee promotion prediction task.
+The results of the model comparison, including metrics such as accuracy, precision, recall, and F1 score, are detailed in the notebook.
 
 ## Acknowledgments
 Special thanks to Maharshi Mehta, Parul Batish, and Prachi Khatri for the contribution that helped in the development of this project.
